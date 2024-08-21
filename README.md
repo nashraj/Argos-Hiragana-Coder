@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/3dd8db10-faa7-46ca-a1a1-762a90d4d5a2)
+
 # Argos-Hiragana-Coder
 Argos Hiragana Coder is a Python utility that translates Python-like pseudo-code written in Japanese (Hiragana) into executable Python code using English syntax using the Argos Translate Library
 
