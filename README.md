@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![](https://img.shields.io/badge/lang-jp-green.svg)](README-JP.md)
+
 ![image](https://github.com/user-attachments/assets/3dd8db10-faa7-46ca-a1a1-762a90d4d5a2)
 
 # Argos-Hiragana-Coder
